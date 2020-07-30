@@ -1,0 +1,227 @@
+
+.h1{
+  font-size: 30px;
+}
+
+
+
+.sec1 {
+  /* The image used */
+  background-image: url("../pic/pic43.jpg");
+
+  /* Set a specific height */
+  min-height: 650px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ /* icon */
+.social{
+    font-size: 25px;
+    color: orange;
+    margin-top: 200px;
+    text-align: center;
+    word-spacing: 20px;
+  }
+  /* icon end */
+
+ 
+ 
+ 	.sec2 {
+  /* The image used */
+  /*background-image: url("../pic/pic43.jpg");*/
+
+  /* Set a specific height */
+  min-height: 650px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+  .one{
+    padding-top: 20px;
+    font-weight: bold;
+    padding-bottom: -20px;
+    }
+ 
+ .sec3 {
+  /* The image used */
+  background:  #B22222;
+
+  /* Set a specific height */
+  min-height: 65vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }  
+
+  .service{
+    padding-left: 180px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+.wd{
+  font-size: 60px;
+  color: orange;
+  padding-top: 50px;
+  
+}
+
+.sec4 {
+  /* The image used */
+  background: ;
+
+  /* Set a specific height */
+  min-height: 100vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  } 
+.pics{
+  text-align: center;
+  color: orange;
+  padding-top: 150px;
+  font-size: 50px;
+}
+
+.sec5 {
+  /* The image used */
+  background: #FFF8DC;
+
+  /* Set a specific height */
+  min-height: 100vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  } 
+  /* form css */
+ input{
+  background: #FFF8DC;
+  width: 350px;
+  padding-left: 5px;
+  border-radius: 10px;
+  border-style: none;
+  border: 2px solid orange;
+  
+  
+ }
+
+textarea{
+  background: #FFF8DC;
+  width: 350px;
+  height: 100px;
+  border-style: none;
+  border-radius: 10px;
+  border: 2px solid orange;
+}
+ .contact{
+  text-align: center;
+ }
+
+
+  
+   
+
+
+
+  /*form css end */
+
+ 
+ 
+ .sec6 {
+  /* The image used */
+  background: black;
+
+  /* Set a specific height */
+  min-height: 30vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  } 
+ 
+ .foo{
+   color: orange;
+   margin-left: 180px;
+   font-size: 35px;
+    
+  padding-top: 50px;
+ }
+
+ 
+.wh{
+  margin-top: 50px;
+  margin-left: 200px;
+  color: orange;
+  font-size: 35px;
+}
+
+.foot {
+  /* The image used */
+  background: black;
+
+  /* Set a specific height */
+  min-height: 10vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  } 
+
+.ikon{
+    font-size: 17px;
+    color: orange;
+    margin-top: 10px;
+    text-align: center;
+    word-spacing: 10px;
+}
+
+a{
+  color: inherit;
+}
+
+.fa-facebook-f:hover{
+  color: orange;
+  }
+
+  .fa-instagram:hover{
+  color: orange;
+  }
+
+  .fa-linkedin-in:hover{
+  color: orange;
+  }
+
+  .fa-google:hover{
+  color: orange;
+  }
+
+
+
+
+
+
+
+
+
+
